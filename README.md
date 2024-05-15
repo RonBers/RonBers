@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=100&duration=4000&pause=1000&color=7ED9CC&center=true&vCenter=true&random=false&width=800&height=200&lines=Ron+Bersabal;Full-stack+" alt="Typing SVG">
+  </a>
+</div>
+
 ### Hi, I am Ron, an aspiring full-stack developer!
 ## 💻 My Tech Stack:
 <div align="center">
