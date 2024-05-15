@@ -17,7 +17,9 @@
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black"/>
 </div>
+
 ## 📊 My Stats:
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RonBers&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true"/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RonBers&theme=nightowl&hide_border=true"/><br/>
