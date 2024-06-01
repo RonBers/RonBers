@@ -22,13 +22,13 @@
 
 <div align="center">
   <h3>Languages</h3>
-  <img src = "https://skillicons.dev/icons?i=java,python,cpp,cs,js,ts,css,html&perline=10"/>
+  <img src = "https://skillicons.dev/icons?i=java,cpp,cs,python,js,ts,css,html&perline=10"/>
   <h3>Frameworks</h3>
-  <img src = "https://skillicons.dev/icons?i=react,tailwind,bootstrap,materialui,django,express,vite,vitest,jest,laravel,maven&perline=6"/>
+  <img src = "https://skillicons.dev/icons?i=react,tailwind,bootstrap,materialui,django,express,vite,vitest,jest,laravel,maven,next&perline=6"/>
   <h3>Database</h3>
   <img src = "https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=10"/>
   <h3>Tools</h3>
-  <img src = "https://skillicons.dev/icons?i=figma,github,git,discord&perline=10"/>
+  <img src = "https://skillicons.dev/icons?i=figma,github,git,discord,vscode,neovim&perline=10"/>
 </div>
 <br>
 
