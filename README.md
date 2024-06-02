@@ -22,7 +22,7 @@
 
 <div align="center">
   <h3>Languages</h3>
-  <img src = "https://skillicons.dev/icons?i=java,cpp,cs,python,js,ts,css,html&perline=10"/>
+  <img src = "https://skillicons.dev/icons?i=java,cpp,python,js,css,html&perline=10"/>
   <h3>Frameworks</h3>
   <img src = "https://skillicons.dev/icons?i=react,tailwind,bootstrap,materialui,django,express,vite,vitest,jest,laravel,maven,next&perline=6"/>
   <h3>Database</h3>
