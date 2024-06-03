@@ -24,7 +24,7 @@
   <h3>Languages</h3>
   <img src = "https://skillicons.dev/icons?i=java,cpp,python,js,css,html&perline=10"/>
   <h3>Frameworks</h3>
-  <img src = "https://skillicons.dev/icons?i=react,tailwind,bootstrap,materialui,django,express,vite,vitest,laravel,maven&perline=6"/>
+  <img src = "https://skillicons.dev/icons?i=react,tailwind,bootstrap,materialui,django,express,,vite,vitest,laravel,maven&perline=6"/>
   <h3>Database</h3>
   <img src = "https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=10"/>
   <h3>Tools</h3>
