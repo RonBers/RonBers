@@ -26,7 +26,7 @@
   <h3>Frameworks</h3>
   <img src = "https://skillicons.dev/icons?i=react,tailwind,bootstrap,materialui,django,express,,vite,vitest,laravel,maven&perline=6"/>
   <h3>Database</h3>
-  <img src = "https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=10"/>
+  <img src = "https://skillicons.dev/icons?i=mysql,postgres&perline=10"/>
   <h3>Tools</h3>
   <img src = "https://skillicons.dev/icons?i=figma,github,git,discord,vscode,neovim&perline=10"/>
 </div>
