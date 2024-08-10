@@ -24,11 +24,13 @@
   <h3>Languages</h3>
   <img src = "https://skillicons.dev/icons?i=java,python,js,css,html&perline=10"/>
   <h3>Frameworks</h3>
-  <img src = "https://skillicons.dev/icons?i=react,tailwind,bootstrap,django,express,vite,maven&perline=7"/>
+  <img src = "https://skillicons.dev/icons?i=react,tailwind,bootstrap,django,spring&perline=7"/>
   <h3>Database</h3>
   <img src = "https://skillicons.dev/icons?i=mysql,postgres&perline=10"/>
   <h3>Tools</h3>
-  <img src = "https://skillicons.dev/icons?i=figma,github,git,discord,vscode,neovim&perline=10"/>
+  <img src = "https://skillicons.dev/icons?i=figma,github,git,discord,maven,vite&perline=6"/>
+  <br>
+  <img src = "https://skillicons.dev/icons?i=vscode,neovim,idea&perline=3"/>
 </div>
 <br>
 
