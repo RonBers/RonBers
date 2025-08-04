@@ -34,10 +34,6 @@
 </div>
 <br>
 
-<p align="center" style="">
-  <img src="https://profile-counter.glitch.me/RonBers/count.svg" alt="Visitor Count">
-</p>
-
 
 
 
